@@ -1,0 +1,74 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "name": "CHICKEN BIRYANI RECIPE",
+            "price": 300,
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-biryani-1.jpeg",
+            "catageray": "raice item"
+        },
+        {
+            "id": 2,
+            "name": "Coriander rice",
+            "price": 300,
+            "image": "https://1.bp.blogspot.com/-zm-GKnT5JCI/T5OVgFpLQrI/AAAAAAAAPIg/DEBEefAp6jI/s1600/1.jpg",
+            "catageray": "raice item"
+        },
+        {
+            "id": 3,
+            "name": "Lime Coriander Chicken Kebab",
+            "price": 300,
+            "image": "https://3.bp.blogspot.com/-GPSPFMxl5Oc/VtXOg-xDDeI/AAAAAAAEbvg/8x98lISIeF0/s1600/1.JPG",
+            "catageray": "raice item"
+        },
+        {
+            "id": 4,
+            "name": "CHICKEN DUM BIRYANI RECIPE",
+            "price": 300,
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/1.-7.jpg",
+            "catageray": "raice item"
+        },
+        {
+            "id": 5,
+            "name": "CHICKEN DUM BIRYANI RECIPE",
+            "price": 300,
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/1.-7.jpg",
+            "catageray": "raice item"
+        },
+        {
+            "id": 6,
+            "name": "CHICKEN DUM BIRYANI RECIPE",
+            "price": 300,
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/1.-7.jpg",
+            "catageray": "raice item"
+        },
+        {
+            "id": 7,
+            "name": "CHICKEN DUM BIRYANI RECIPE",
+            "price": 300,
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/1.-7.jpg",
+            "catageray": "raice item"
+        },
+        {
+            "id": 8,
+            "name": "CHICKEN DUM BIRYANI RECIPE",
+            "price": 300,
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/1.-7.jpg",
+            "catageray": "raice item"
+        },
+        {
+            "id": 9,
+            "name": "CHICKEN DUM BIRYANI RECIPE",
+            "price": 300,
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/1.-7.jpg",
+            "catageray": "raice item"
+        },
+        {
+            "id": 10,
+            "name": "CHICKEN DUM BIRYANI RECIPE",
+            "price": 300,
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/1.-7.jpg",
+            "catageray": "raice item"
+        }
+    ]
+}
